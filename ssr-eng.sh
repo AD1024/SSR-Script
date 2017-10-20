@@ -8,7 +8,9 @@ export PATH
 #	Description: Install the ShadowsocksR server
 #	Version: 2.0.34
 #	Author: Toyo
+#   Translated By: AD1024
 #	Blog: https://doub.io/ss-jc42/
+#   Blog Of AD1024: http://ad1024.tech
 #=================================================
 
 sh_ver="2.0.34"
